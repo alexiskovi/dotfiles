@@ -1,0 +1,6 @@
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ''
+    ~/.vim: vim/
+    ~/.vimrc: vim/vimrc
